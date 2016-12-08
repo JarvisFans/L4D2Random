@@ -9,3 +9,5 @@ V1.0
 
 百度网盘（需要Java运行环境）
 https://pan.baidu.com/s/1bpxJiTx
+
+该文件来自Beautiful 界面美化分支。
